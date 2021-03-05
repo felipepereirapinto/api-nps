@@ -39,7 +39,7 @@ This project was developed during the NodeJS trail, in the fourth edition of NLW
 
 ## 🔶 Diagram
 
-<img src="public/diagrama.png" alt="Application diagram" />
+<img src=".github/diagram.png" alt="Application diagram" />
 
 ## 🚀 How to run
 
